@@ -1,5 +1,5 @@
 ### About me 
-:japanese_ogre: Interested in cyber security research, and i love to learn new things  
+:japanese_ogre: Interested in cyber security research, and learning new things  
 :blue_heart: From Blue Team activities im interested in data analysis, malware analysis, forensics and linux hardening  
 :heart: From Red Team activities im interested in penetration testing and malware creation (for CTF or for better understanding at malware analysis)  
 :sparkles: My goal is to fully understand system i use (hopefuly on the lowest level possible) and give back to the community what i took from it (in form of open source and advise people about cybersec)  
