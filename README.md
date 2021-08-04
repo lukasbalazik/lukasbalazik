@@ -1,10 +1,10 @@
 ### About me 
-:japanese_ogre: Interested in cyber security research, and i love to learn new things 
-:blue_heart: From Blue Team activities im interested in data analysis, malware analysis, forensics and linux hardening 
-:heart: From Red Team activities im interested in penetration testing and malware creation (for CTF or for better understanding at malware analysis) 
-:sparkles: My goal is to fully understand system i use (hopefuly on the lowest level possible) and give back to the community what i took from it (in form of open source and advise people about cybersec) 
-🔭 I’m currently working on CTF. Also im working on GRID and CEH certifications 
-🌱 I’m currently learning LKM rootkits and how to abuse kernel 
-💬 Ask me about anything, i am glad to help 
+:japanese_ogre: Interested in cyber security research, and i love to learn new things  
+:blue_heart: From Blue Team activities im interested in data analysis, malware analysis, forensics and linux hardening  
+:heart: From Red Team activities im interested in penetration testing and malware creation (for CTF or for better understanding at malware analysis)  
+:sparkles: My goal is to fully understand system i use (hopefuly on the lowest level possible) and give back to the community what i took from it (in form of open source and advise people about cybersec)  
+🔭 I’m currently working on CTF. Also im working on GRID and CEH certifications  
+🌱 I’m currently learning LKM rootkits and how to abuse kernel  
+💬 Ask me about anything, i am glad to help  
  
-PS. My code is not updated, if you are interested in any of my project just PM me or write a issue and i will solve it 
+PS. My code is not updated, if you are interested in any of my project just PM me or write a issue and i will solve it  
