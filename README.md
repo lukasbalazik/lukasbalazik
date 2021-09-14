@@ -11,3 +11,4 @@ PS. My code is not updated, if you are interested in any of my project just PM m
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasbalazik123&hide=TeX&layout=compact&card_width=300&langs_count=6&hide_border=true&theme=dark)
+![My github stats](https://github-readme-stats.vercel.app/api?username=lukasbalazik123&show_icons=true&card_width=445&layout=compact&hide=TeX&hide_border=true&theme=dark)
