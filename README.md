@@ -8,3 +8,6 @@
 💬 Ask me about anything, i am glad to help  
  
 PS. My code is not updated, if you are interested in any of my project just PM me or write a issue and i will solve it  
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasbalazik123&hide=TeX&layout=compact&card_width=300&langs_count=6&hide_border=true&theme=dark)
