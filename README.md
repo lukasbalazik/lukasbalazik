@@ -1,3 +1,5 @@
+![banner](https://github.com/lukasbalazik123/lukasbalazik123/blob/main/banner.png)
+
 ### About me 
 :japanese_ogre: Interested in cyber security research and learning new things  
 :blue_heart: From Blue Team activities im interested in data analysis, malware analysis, forensics and linux hardening  
