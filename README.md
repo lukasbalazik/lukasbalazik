@@ -1,4 +1,4 @@
-![banner](https://github.com/lukasbalazik123/lukasbalazik123/blob/main/banner.png)
+![banner](https://github.com/lukasbalazik123/lukasbalazik123/blob/main/ban.png)
 
 ### About me 
 :japanese_ogre: Interested in cyber security research and learning new things  
