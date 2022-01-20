@@ -1,5 +1,3 @@
-![banner](https://i.ibb.co/3RpwQ2k/image.png)
-
 ### About me 
 :japanese_ogre: Interested in cyber security research and learning new things  
 :blue_heart: From Blue Team activities im interested in data analysis, malware analysis, forensics and linux hardening  
