@@ -3,8 +3,8 @@
 :blue_heart: From Blue Team activities im interested in data analysis, malware analysis, forensics and linux hardening  
 :heart: From Red Team activities im interested in penetration testing and malware creation (for CTF or for better understanding at malware analysis)  
 :sparkles: My goal is to fully understand system i use (hopefuly on the lowest level possible), making things fast as possible and memory efficient. Also i want to give back to the community what i took from it (in form of open source and advising people about cybersec)  
-🔭 I’m currently working on CTF. Also im working on CEH certifications  
-🌱 I’m currently learning how polymorphic engines works 
+🔭 I’m currently working on OSCE3 
+🌱 I’m currently learning how polymorphic engines works and learning about bsd rootkits
 
 💬 Ask me about anything, i am glad to help  
  
